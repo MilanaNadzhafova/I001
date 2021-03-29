@@ -1,0 +1,13 @@
+C:\Users\mnadg\source\repos\l001\l001\bin\Debug\l001.exe.config
+C:\Users\mnadg\source\repos\l001\l001\bin\Debug\l001.exe
+C:\Users\mnadg\source\repos\l001\l001\bin\Debug\l001.pdb
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.csprojAssemblyReference.cache
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.Properties.Resources.resources
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.csproj.GenerateResource.cache
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.csproj.CoreCompileInputs.cache
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.exe
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.pdb
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.Users.resources
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.Add.resources
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.Read.resources
+C:\Users\mnadg\source\repos\l001\l001\obj\Debug\l001.Update.resources
